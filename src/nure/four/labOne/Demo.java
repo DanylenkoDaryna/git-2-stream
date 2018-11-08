@@ -17,14 +17,10 @@ import java.util.ArrayList;
 
 /**
  * @author Daryna
- *Лабораторная работа 1 - Потоки данных и Лямбда-выражения Даниленко КИ-15-4
+ *
  */
-public class Bookshop {
+public class Demo {
 
-    /**
-     * @param args
-
-     */
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         //Создание списочного массива типа Book
